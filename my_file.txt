@@ -1,0 +1,6 @@
+This is line 1: Hello, World!
+This is line 2: The number is 42
+This is line 3: Python file handling
+This is line 4: Appending new content
+This is line 5: Another number 100
+This is line 6: End of file.
